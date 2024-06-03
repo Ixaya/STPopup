@@ -1,0 +1,12 @@
+module STPopup {
+    header "STPopup.h"
+    header "STPopupController.h"
+    header "STPopupControllerTransitioningFade.h"
+    header "STPopupControllerTransitioningSlideVertical.h"
+    header "STPopupLeftBarItem.h"
+    header "STPopupNavigationBar.h"
+    header "UIResponder+STPopup.h"
+    header "UIViewController+STPopup.h"
+
+    export *
+}

@@ -9,6 +9,7 @@
 #if canImport(SwiftUI)
 
 import SwiftUI
+import STPopup
 
 public typealias PopupStyle = STPopupStyle
 
